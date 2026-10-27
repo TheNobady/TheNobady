@@ -1,0 +1,24 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at 00:00 UTC (05:30 IST)
+  workflow_dispatch: # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write # the action commits the updated README
+
+jobs:
+  update-readme:
+    name: Update README with dev metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_PROJECTS: "False" # keeps private project names off your profile
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_TIMEZONE: "True"
+          LOCALE: "en"
+          COMMIT_MESSAGE: "Updated dev metrics"
