@@ -15,12 +15,11 @@
 
 My portfolio is built like a running Spring Boot service. Hit **Execute** on the API console and it answers in JSON.
 
-👉 **[ojas-sharma-dev.vercel.app](https://ojas-sharma-dev.vercel.app/)**
-
+👉 **[ojas-sharma.duckdns.org](https://ojas-sharma.duckdns.org/)**
 👇 Or skip the browser. Hit this in your terminal:
 
 ```bash
-curl https://ojas-sharma-dev.vercel.app/llms.txt
+curl https://ojas-sharma.duckdns.org/llms.txt
 ```
 
 **👆 That's my whole profile, served as plain text for humans, terminals and AI agents alike.**
