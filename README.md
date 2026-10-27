@@ -1,21 +1,95 @@
-# 💫 About Me:
-🔭 I’m currently working on learning and exploring by building<br>🤝 I’m looking for help with learning<br>🌱 I’m currently learning Fundamentals, backend, behind the scene<br>💬 Ask me about useless in-depth facts 👨‍💻<br>⚡ Fun fact in Java, the Integer wrapper class caches values to save memory and improve performance. By default, this cache covers the range -128 to 127.However, while the lower bound is hardcoded and unchangeable but the upper bound is actually configurable via a JVM flag.
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> नमस्ते (Namaste) 🙏🏻, I'm Ojas Sharma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Backend Engineer · Tech Lead at <a href="#">ISTE</a> &amp; <a href="#">Rangeen Pixels</a>, SRM IST <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
+**I build backends that stay correct under load.** Java and Spring Boot by default: real-time systems, geospatial data, and the edge cases everyone else skips.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ojas-sharma-2048a8315) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ojas_s2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sojas4459@gmail.com) 
+[![Website](https://img.shields.io/badge/Website-ojas--sharma--dev-7ee787?style=flat-square&logo=vercel&logoColor=white&labelColor=0b0d0c)](https://ojas-sharma-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ojas--sharma-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-sharma-2048a8315/)
+[![X](https://img.shields.io/badge/X-@ojas__s2006-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ojas_s2006)
+[![Email](https://img.shields.io/badge/Email-sojas4459-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sojas4459@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/TheNobady?label=Follow&style=social)
+[![Waka Readme](https://github.com/TheNobady/TheNobady/actions/workflows/waka-readme.yml/badge.svg)](https://github.com/TheNobady/TheNobady/actions/workflows/waka-readme.yml)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheNobady&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TheNobady&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNobady&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🖥️ Like to meet me?
 
-### ✍️ Note to self
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+My portfolio is built like a running Spring Boot service. Hit **Execute** on the API console and it answers in JSON.
+
+👉 **[ojas-sharma-dev.vercel.app](https://ojas-sharma-dev.vercel.app/)**
+
+👇 Or skip the browser. Hit this in your terminal:
+
+```bash
+curl https://ojas-sharma-dev.vercel.app/llms.txt
+```
+
+**👆 That's my whole profile, served as plain text for humans, terminals and AI agents alike.**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```java
+@RestController
+@RequestMapping("/api/ojas")
+public class Ojas implements BackendEngineer {
+
+    String name      = "Ojas Sharma";
+    String education = "B.Tech CSE @ SRM Institute of Science and Technology (2024–2028)";
+    String[] roles   = { "Tech Lead @ ISTE, SRM IST", "Tech Lead @ Rangeen Pixels, SRM IST" };
+
+    List<String> languages = List.of("Java", "Kotlin", "SQL", "TypeScript", "Rust", "C/C++");
+
+    List<String> askMeAbout = List.of(
+        "backend engineering",
+        "Spring Boot internals",
+        "real-time systems & WebSockets",
+        "database design",
+        "geospatial data",
+        "useless in-depth facts"
+    );
+
+    Map<String, List<String>> technologies = Map.of(
+        "backend",   List.of("Spring Boot", "Spring Security", "JWT", "REST", "WebSockets / STOMP"),
+        "databases", List.of("PostgreSQL", "PostGIS", "pgvector", "MySQL", "SQLite", "Flyway"),
+        "devOps",    List.of("Docker", "Linux", "Git", "Maven", "Vercel", "Render"),
+        "frontend",  List.of("Next.js", "React", "Tailwind CSS"),
+        "mobile",    List.of("Android", "Kotlin", "GraphHopper", "osmdroid"),
+        "web3",      List.of("Solana", "Anchor", "Rust")
+    );
+
+    List<String> architecture = List.of(
+        "layered (Controller → Service → DAO)",
+        "event-driven / async processing",
+        "server-authoritative real-time state"
+    );
+
+    String currentFocus = "Spring internals, system design and distributed-systems fundamentals";
+    String philosophy   = "Make it work. Know why it works. Make it better.";
+
+    String funFact = "Java's Integer wrapper caches -128 to 127. The lower bound is hardcoded, "
+                   + "but the upper bound is configurable with -XX:AutoBoxCacheMax.";
+}
+```
+
+### 🛠️ Things I've built
+
+| Project | What it does | Built with | |
+| --- | --- | --- | --- |
+| **[TubeSync](https://github.com/TheNobady/TubeSync)** | Server-authoritative YouTube watch parties, synced over STOMP | Java · Spring Boot · PostgreSQL | [live ↗](https://tube-sync-gamma.vercel.app/) |
+| **[ANPR City Engine](https://github.com/TheNobady/ANPR-Backend)** | Turns plate sightings into road-aware vehicle journeys | Java · PostGIS · pgvector | docker compose |
+| **[AtlasForge](https://github.com/TheNobady/AtlasForge)** | Turn-by-turn navigation with no internet at all | Kotlin · GraphHopper · OSM | runs on Android |
+| **[BlockHarvest](https://github.com/TheNobady/blockHarvest)** | Crop insurance as an on-chain program | Rust · Anchor · Solana | [live ↗](https://block-harvest-qk3j.vercel.app/) |
+| **[Pavo](https://github.com/TheNobady/Pavo-Flaunt-Your-Academic-Feathers)** | College and career discovery for students | Spring Boot · Next.js · Docker | [live ↗](https://pavo-flaunt-your-academic-feathers.vercel.app/) |
+| **[Akshara](https://github.com/TheNobady/Akshara)** | A terminal text editor, from raw mode up | Java · JNA | runs in your terminal |
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheNobady&show_icons=true&hide_border=true&bg_color=0b0d0c&title_color=7ee787&icon_color=7ee787&text_color=e6e8e6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNobady&layout=compact&hide_border=true&bg_color=0b0d0c&title_color=7ee787&text_color=e6e8e6" />
+</p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people who care how things are built</b>, so if you want to say <b>hi</b> or talk backends, I'd be happy to meet you! 😊</em>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TheNobady&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**These stats are generated by the GitHub Action [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) and refresh every day.**
