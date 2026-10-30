@@ -89,19 +89,19 @@ public class Ojas implements BackendEngineer {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-582.58%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-593.72%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 37.2 kB Used in GitHub's Storage 
+> 📦 37.7 kB Used in GitHub's Storage 
  > 
-> 🏆 236 Contributions in the Year 2026
+> 🏆 237 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,21 +112,21 @@ public class Ojas implements BackendEngineer {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-🌆 Daytime                134 commits         ████████░░░░░░░░░░░░░░░░░   31.53 % 
-🌃 Evening                176 commits         ██████████░░░░░░░░░░░░░░░   41.41 % 
-🌙 Night                  90 commits          █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+🌆 Daytime                135 commits         ████████░░░░░░░░░░░░░░░░░   31.69 % 
+🌃 Evening                176 commits         ██████████░░░░░░░░░░░░░░░   41.31 % 
+🌙 Night                  90 commits          █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Tuesday                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Thursday                 61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Friday                   82 commits          █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Sunday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Monday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Tuesday                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Thursday                 62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   82 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Sunday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 ```
 
 
@@ -136,41 +136,41 @@ Sunday                   55 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   31.13 % 
-TeX                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+TypeScript               1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   31.92 % 
+TeX                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 48 mins       ████████████████████░░░░░   81.36 % 
-Neovim                   50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Claude Code              3 hrs 36 mins       ████████████████████░░░░░   79.66 % 
+Neovim                   53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Linux                    4 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 51 mins (82.38%)
+⏱ AI Coding Time: 3 hrs 39 mins (80.71%)
 
-✍️ 782 lines written by AI, 230 lines written by hand (77.27% AI-written)
+✍️ 777 lines written by AI, 231 lines written by hand (77.08% AI-written)
 
-🔤 1,249,005 Input Tokens, 209,872 Output Tokens
+🔤 1,218,842 Input Tokens, 199,359 Output Tokens
 
-💵 $22.63 Estimated AI Cost This Week
+💵 $21.45 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 39 AI Prompts
+🧠 8 AI Sessions, 37 AI Prompts
 
-Opus                     6,946 lines         █████████████████████████   100.00 % 
+Opus                     6,938 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.27% of written lines came from AI
-📄 Detailed Prompter — average 544 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.29% of changed lines were hand-edited
+🤖 AI-Driven — 77.08% of written lines came from AI
+📄 Detailed Prompter — average 570 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -190,7 +190,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheNobady/TheNobady/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 04:38:24 UTC
+ Last Updated on 30/10/2026 04:38:04 UTC
 <!--END_SECTION:waka-->
 
 **These stats are generated by the GitHub Action and refresh every day.**
