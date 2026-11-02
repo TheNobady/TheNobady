@@ -185,9 +185,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/TheNobady/TheNobady/main/assets/bar_graph.png)
 
 
  Last Updated on 02/11/2026 06:32:01 UTC
