@@ -95,7 +95,7 @@ public class Ojas implements BackendEngineer {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-601.35%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-602.88%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,21 +112,21 @@ public class Ojas implements BackendEngineer {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-🌆 Daytime                136 commits         ████████░░░░░░░░░░░░░░░░░   31.48 % 
-🌃 Evening                181 commits         ██████████░░░░░░░░░░░░░░░   41.90 % 
-🌙 Night                  90 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+🌆 Daytime                136 commits         ████████░░░░░░░░░░░░░░░░░   31.41 % 
+🌃 Evening                182 commits         ███████████░░░░░░░░░░░░░░   42.03 % 
+🌙 Night                  90 commits          █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Tuesday                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Thursday                 62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Friday                   82 commits          █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Monday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Tuesday                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Thursday                 62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Friday                   82 commits          █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Saturday                 48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Sunday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 ```
 
 
@@ -136,41 +136,40 @@ Sunday                   60 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-TeX                      59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-TypeScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Markdown                 43 mins             █████████████░░░░░░░░░░░░   52.22 % 
+JavaScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+tmux                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 40 mins       ████████████████░░░░░░░░░   62.06 % 
-Neovim                   1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   37.26 % 
-WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Neovim                   1 hr 17 mins        ███████████████████████░░   92.81 % 
+Claude Code              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 💻 Operating System: 
-Linux                    4 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (63.17%)
+⏱ AI Coding Time: 5 mins (7.19%)
 
-✍️ 267 lines written by AI, 240 lines written by hand (52.66% AI-written)
+✍️ 0 lines written by AI, 15 lines written by hand (0.0% AI-written)
 
-🔤 1,042,126 Input Tokens, 83,779 Output Tokens
+🔤 35,853 Input Tokens, 2,161 Output Tokens
 
-💵 $11.52 Estimated AI Cost This Week
+💵 $1.35 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 27 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-Opus                     329 lines           █████████████████████████   100.00 % 
+Opus                     72 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.66% of written lines came from AI
-📄 Detailed Prompter — average 516 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 42.78% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 29 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -190,7 +189,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TheNobady/TheNobady/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2026 05:02:03 UTC
+ Last Updated on 05/11/2026 05:24:49 UTC
 <!--END_SECTION:waka-->
 
 **These stats are generated by the GitHub Action and refresh every day.**
